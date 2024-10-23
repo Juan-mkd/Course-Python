@@ -4,8 +4,6 @@ import turtle
 import time
 import random
 
-
-
 class SnakeGame:
     def __init__(self,width = 600,height = 600, color = "green"):
         """Inicializar los componentes del juego"""
